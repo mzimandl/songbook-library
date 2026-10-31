@@ -4,6 +4,9 @@
 Usage (from the repo root):  python3 tools/build_index.py
 "updated" is a short content hash, so the plugin re-downloads a song
 exactly when its file changes.
+
+Optional songbook.json in the repo root sets the repository name shown in
+the plugin:  {"name": "My songs"}
 """
 import hashlib
 import json
@@ -13,6 +16,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 SONGS = ROOT / "songs"
+CONFIG = ROOT / "songbook.json"
 DIRECTIVE = re.compile(r"^\s*\{\s*([\w-]+)\s*[:\s]\s*(.*?)\s*\}\s*$")
 ALIASES = {"t": "title", "st": "subtitle"}
 FIELDS = ("title", "artist", "key")
@@ -28,6 +32,16 @@ def read_meta(text: str) -> dict:
         if name in FIELDS and name not in meta and m.group(2):
             meta[name] = m.group(2)
     return meta
+
+
+def read_name() -> str | None:
+    if not CONFIG.exists():
+        return None
+    name = json.loads(CONFIG.read_text(encoding="utf-8-sig")).get("name")
+    if not isinstance(name, str) or not name.strip():
+        print(f"warning: {CONFIG.name} has no \"name\"", file=sys.stderr)
+        return None
+    return name.strip()
 
 
 def main() -> int:
@@ -47,8 +61,9 @@ def main() -> int:
         })
     songs.sort(key=lambda s: s["title"].casefold())
     out = ROOT / "index.json"
-    out.write_text(json.dumps({"version": 1, "songs": songs}, ensure_ascii=False, indent=2) + "\n",
-                   encoding="utf-8")
+    name = read_name()
+    index = {"version": 1, **({"name": name} if name else {}), "songs": songs}
+    out.write_text(json.dumps(index, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"index.json: {len(songs)} songs")
     return 0
 

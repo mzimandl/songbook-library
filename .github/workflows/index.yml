@@ -3,7 +3,7 @@ name: Build song index
 on:
   push:
     branches: [master]
-    paths: ["songs/**", "tools/build_index.py"]
+    paths: ["songs/**", "songbook.json", "tools/build_index.py"]
   workflow_dispatch:
 
 permissions:
