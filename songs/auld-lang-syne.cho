@@ -1,0 +1,26 @@
+{title: Auld Lang Syne}
+{artist: Robert Burns (1788)}
+{key: G}
+
+{start_of_verse: label="1."}
+Should [G]auld acquaintance [D]be for[G]got,
+and [G]never brought to [C]mind?
+Should [G]auld acquaintance [D]be for[Emi]got,
+and [C]auld [D]lang [G]syne?
+{end_of_verse}
+
+{start_of_chorus}
+For [G]auld lang syne, my [D]dear,
+for [G]auld lang [C]syne,
+we'll [G]take a cup o' [D]kindness [Emi]yet,
+for [C]auld [D]lang [G]syne.
+{end_of_chorus}
+
+{start_of_verse: label="2."}
+And [G]surely ye'll be [D]your pint-[G]stowp!
+and [G]surely I'll be [C]mine!
+And [G]we'll take a cup o' [D]kindness [Emi]yet,
+for [C]auld [D]lang [G]syne.
+{end_of_verse}
+
+{chorus}

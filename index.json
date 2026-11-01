@@ -11,6 +11,110 @@
       "updated": "d583db33c6"
     },
     {
+      "id": "auld-lang-syne",
+      "title": "Auld Lang Syne",
+      "artist": "Robert Burns (1788)",
+      "key": "G",
+      "file": "songs/auld-lang-syne.cho",
+      "updated": "063e2a3b34"
+    },
+    {
+      "id": "drunken-sailor",
+      "title": "Drunken Sailor",
+      "artist": "Námořnická píseň",
+      "key": "Dmi",
+      "file": "songs/drunken-sailor.cho",
+      "updated": "108e96a707"
+    },
+    {
+      "id": "greensleeves",
+      "title": "Greensleeves",
+      "artist": "Tradicionál (Anglie, 16. století)",
+      "key": "Ami",
+      "file": "songs/greensleeves.cho",
+      "updated": "a3c20b421e"
+    },
+    {
+      "id": "holka-modrooka",
+      "title": "Holka modrooká",
+      "artist": "Lidová",
+      "key": "G",
+      "file": "songs/holka-modrooka.cho",
+      "updated": "f5cd26550f"
+    },
+    {
+      "id": "kocka-leze-dirou",
+      "title": "Kočka leze dírou",
+      "artist": "Lidová",
+      "key": "C",
+      "file": "songs/kocka-leze-dirou.cho",
+      "updated": "59d737175b"
+    },
+    {
+      "id": "na-tom-prazskem-moste",
+      "title": "Na tom pražském mostě",
+      "artist": "Lidová",
+      "key": "G",
+      "file": "songs/na-tom-prazskem-moste.cho",
+      "updated": "60f9b18f13"
+    },
+    {
+      "id": "narodil-se-kristus-pan",
+      "title": "Narodil se Kristus Pán",
+      "artist": "Koleda",
+      "key": "G",
+      "file": "songs/narodil-se-kristus-pan.cho",
+      "updated": "339f2fd097"
+    },
+    {
+      "id": "nesem-vam-noviny",
+      "title": "Nesem vám noviny",
+      "artist": "Koleda",
+      "key": "G",
+      "file": "songs/nesem-vam-noviny.cho",
+      "updated": "33440770be"
+    },
+    {
+      "id": "oh-susanna",
+      "title": "Oh! Susanna",
+      "artist": "Stephen Foster (1848)",
+      "key": "C",
+      "file": "songs/oh-susanna.cho",
+      "updated": "c802a6d5f8"
+    },
+    {
+      "id": "pec-nam-spadla",
+      "title": "Pec nám spadla",
+      "artist": "Lidová",
+      "key": "G",
+      "file": "songs/pec-nam-spadla.cho",
+      "updated": "9fa2205ec8"
+    },
+    {
+      "id": "prsi-prsi",
+      "title": "Prší, prší",
+      "artist": "Lidová",
+      "key": "C",
+      "file": "songs/prsi-prsi.cho",
+      "updated": "6b140d66e5"
+    },
+    {
+      "id": "red-river-valley",
+      "title": "Red River Valley",
+      "artist": "Tradicionál (Severní Amerika)",
+      "key": "G",
+      "file": "songs/red-river-valley.cho",
+      "updated": "b1d5679d72"
+    },
+    {
+      "id": "scarborough-fair",
+      "title": "Scarborough Fair",
+      "artist": "Tradicionál (Anglie)",
+      "key": "Ami",
+      "file": "songs/scarborough-fair.cho",
+      "updated": "8a350162c9"
+    },
+    {
       "id": "skakal-pes",
       "title": "Skákal pes",
       "artist": "Lidová",
@@ -19,12 +123,36 @@
       "updated": "596dfcd48e"
     },
     {
+      "id": "swing-low-sweet-chariot",
+      "title": "Swing Low, Sweet Chariot",
+      "artist": "Spirituál",
+      "key": "D",
+      "file": "songs/swing-low-sweet-chariot.cho",
+      "updated": "189aac3a88"
+    },
+    {
+      "id": "tancuj-tancuj",
+      "title": "Tancuj, tancuj",
+      "artist": "Lidová (Slovensko)",
+      "key": "A",
+      "file": "songs/tancuj-tancuj.cho",
+      "updated": "08a7b869c8"
+    },
+    {
       "id": "ukazka-formatu",
       "title": "Ukázka formátu",
       "artist": "Songbook",
       "key": "Ami",
       "file": "songs/ukazka-formatu.cho",
       "updated": "2856e9fadb"
+    },
+    {
+      "id": "when-the-saints",
+      "title": "When the Saints Go Marching In",
+      "artist": "Spirituál",
+      "key": "G",
+      "file": "songs/when-the-saints.cho",
+      "updated": "cf9f28c096"
     }
   ]
 }
