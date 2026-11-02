@@ -153,6 +153,13 @@
       "key": "G",
       "file": "songs/when-the-saints.cho",
       "updated": "cf9f28c096"
+    },
+    {
+      "id": "nad-stadem-koni",
+      "title": "Nad stádem koní",
+      "artist": "Buty",
+      "key": "D",
+      "file": "songs/my/nad-stadem-koni.cho"
     }
   ]
 }
