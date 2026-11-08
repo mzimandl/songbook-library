@@ -1,4 +1,4 @@
-# Ukázka všech podporovaných prvků ChordPro (text je vymyšlený).
+# Ukázka všech podporovaných prvků ChordPro (text je vymyšlený). Leží mimo songs/, aby se nezobrazovala mezi písněmi; zkopírujte ji do songs/ jako základ nové písně.
 {title: Ukázka formátu}
 {subtitle: Co všechno zpěvník umí}
 {artist: Songbook}
