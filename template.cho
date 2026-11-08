@@ -1,15 +1,17 @@
 # Ukázka všech podporovaných prvků ChordPro (text je vymyšlený). Leží mimo songs/, aby se nezobrazovala mezi písněmi; zkopírujte ji do songs/ jako základ nové písně.
+# Akordy se píšou v mezinárodním zápisu (B, Bb, Am, F#); čtečka je podle nastavení ukáže i česky (H, B, Ami, Fis).
 {title: Ukázka formátu}
 {subtitle: Co všechno zpěvník umí}
 {artist: Songbook}
-{key: Ami}
+{key: Am}
 {capo: 2}
+{meta: notation en}
 
 {start_of_verse: label="1."}
-[Ami]Česká písmena [Dmi]žluťoučký kůň,
+[Am]Česká písmena [Dm]žluťoučký kůň,
 [G]akordy sedí i [C]nad diakritikou.
-Upro[Ami]střed slo[E]va se [Ami]text roztáhne,
-[Fmaj7]akord je vždy [G]nad svou [Ami]slabikou.
+Upro[Am]střed slo[E]va se [Am]text roztáhne,
+[Fmaj7]akord je vždy [G]nad svou [Am]slabikou.
 {end_of_verse}
 
 {start_of_chorus}
@@ -18,11 +20,11 @@ Upro[Ami]střed slo[E]va se [Ami]text roztáhne,
 {end_of_chorus}
 
 {c: Mezihra}
-[Ami] [G] [F] [E]
+[Am] [G] [F] [E]
 
 {start_of_verse: label="2."}
-[Ami/G]Basové tóny, [H7]české H a [B]B,
-[Fis]Cis, Es a [Asus4]sus se transponují správně.
+[Am/G]Basové tóny, [B7]B je české H, [Bb]Bb je B,
+[F#]křížky, [Eb]béčka a [Asus4]sus se transponují správně.
 {end_of_verse}
 
 {chorus}

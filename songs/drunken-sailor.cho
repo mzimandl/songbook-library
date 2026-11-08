@@ -1,35 +1,36 @@
 {title: Drunken Sailor}
 {artist: Námořnická píseň}
-{key: Dmi}
+{key: Dm}
+{meta: notation en}
 
 {start_of_verse: label="1."}
-[Dmi]What shall we do with a drunken sailor,
+[Dm]What shall we do with a drunken sailor,
 [C]what shall we do with a drunken sailor,
-[Dmi]what shall we do with a drunken sailor
-[C]early in the [Dmi]morning?
+[Dm]what shall we do with a drunken sailor
+[C]early in the [Dm]morning?
 {end_of_verse}
 
 {start_of_chorus}
-[Dmi]Way hay and up she rises,
+[Dm]Way hay and up she rises,
 [C]way hay and up she rises,
-[Dmi]way hay and up she rises
-[C]early in the [Dmi]morning.
+[Dm]way hay and up she rises
+[C]early in the [Dm]morning.
 {end_of_chorus}
 
 {start_of_verse: label="2."}
-[Dmi]Put him in the long boat till he's sober,
+[Dm]Put him in the long boat till he's sober,
 [C]put him in the long boat till he's sober,
-[Dmi]put him in the long boat till he's sober
-[C]early in the [Dmi]morning.
+[Dm]put him in the long boat till he's sober
+[C]early in the [Dm]morning.
 {end_of_verse}
 
 {chorus}
 
 {start_of_verse: label="3."}
-[Dmi]Shave his belly with a rusty razor,
+[Dm]Shave his belly with a rusty razor,
 [C]shave his belly with a rusty razor,
-[Dmi]shave his belly with a rusty razor
-[C]early in the [Dmi]morning.
+[Dm]shave his belly with a rusty razor
+[C]early in the [Dm]morning.
 {end_of_verse}
 
 {chorus}

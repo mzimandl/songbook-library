@@ -10,6 +10,10 @@ repository as its default song server.
 - `songbook.json`: the repository's name shown in the plugin.
 - `template.cho`: every supported ChordPro directive, a start for a new song.
 
+Chords use the international notation (B, Bb, Am, F#) and every song says so
+with `{meta: notation en}`; the plugin shows them in Czech (H, B, Ami) when the
+reader chooses it.
+
 Copy this repository to start your own song server, then add its GitHub address
 in the plugin (Settings → Song repositories → Add repository…).
 

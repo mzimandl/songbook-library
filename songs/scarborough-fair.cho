@@ -1,24 +1,25 @@
 {title: Scarborough Fair}
 {artist: Tradicionál (Anglie)}
-{key: Ami}
+{key: Am}
+{meta: notation en}
 
 {start_of_verse: label="1."}
-[Ami]Are you going to [G]Scarborough [Ami]Fair?
-[C]Parsley, [Ami]sage, rose[C]mary [D]and [Ami]thyme;
-Re[Ami]member me to [C]one who lives [G]there,
-[Ami]She once was a [G]true love of [Ami]mine.
+[Am]Are you going to [G]Scarborough [Am]Fair?
+[C]Parsley, [Am]sage, rose[C]ma[D]ry and [Am]thyme;
+Re[Am]member [C]me to one [G/B]who [Am]lives [G]there,
+[Am]She once [G]was a true love of [Am]mine.
 {end_of_verse}
 
 {start_of_verse: label="2."}
-[Ami]Tell her to make me a [G]cambric [Ami]shirt,
-[C]Parsley, [Ami]sage, rose[C]mary [D]and [Ami]thyme;
-With[Ami]out no seams nor [C]needle[G]work,
-[Ami]Then she'll be a [G]true love of [Ami]mine.
+[Am]Tell her to make me a [G]cambric [Am]shirt,
+[C]Parsley, [Am]sage, rose[C]ma[D]ry and [Am]thyme,
+With[Am]out no [C]seams nor [C]nee-[G/B]ee-[Am]dle [G]work,
+[Am]Then she'll [G]be a true love of [Am]mine.
 {end_of_verse}
 
 {start_of_verse: label="3."}
-[Ami]Tell her to wash it in [G]yonder dry [Ami]well,
-[C]Parsley, [Ami]sage, rose[C]mary [D]and [Ami]thyme;
-Where [Ami]never sprung water, nor [C]rain ever [G]fell,
-[Ami]And she shall be a [G]true love of [Ami]mine.
+[Am]Tell her to wash it in [G]yonder dry [Am]well,
+[C]Parsley, [Am]sage, rose[C]ma[D]ry and [Am]thyme;
+Where [Am]never sprung [C]water, nor [C]rain [G/B]ev[Am]er [G]fell,
+[Am]And she shall [G]be a true love of [Am]mine.
 {end_of_verse}

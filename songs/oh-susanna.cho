@@ -1,24 +1,27 @@
 {title: Oh! Susanna}
 {artist: Stephen Foster (1848)}
 {key: C}
+{meta: notation en}
 
 {start_of_verse: label="1."}
-I [C]come from Alabama with my [G7]banjo on my knee,
-I'm [C]going to Louisiana, my [G7]true love for to [C]see.
-It [C]rained all night the day I left, the [G7]weather it was dry,
-The [C]sun so hot I froze to death; Su[G7]sanna, don't you [C]cry.
+I [C]come from Alabama with my banjo on my [G7]knee,
+I'm [C]going to Louisiana, my true love [G7]for to [C]see.
+It [C]rained all night the day I left, the weather it was [G7]dry,
+The [C]sun so hot I froze to death; Susanna, [G7]don't you [C]cry.
 {end_of_verse}
 
 {start_of_chorus}
-[F]Oh! Su[C]sanna, oh [G7]don't you cry for me,
-For I [C]come from Alabama with my [G7]banjo on my [C]knee.
+[F]Oh! Susanna,
+oh [C]don't you cry for [G7]me,
+For I [C]come from Alabama
+with my banjo [G7]on my [C]knee.
 {end_of_chorus}
 
 {start_of_verse: label="2."}
-I [C]had a dream the other night, when [G7]everything was still;
-I [C]thought I saw Susanna dear, a-[G7]coming down the [C]hill.
-The [C]buckwheat cake was in her mouth, the [G7]tear was in her eye,
-Says [C]I, I'm coming from the south, Su[G7]sanna, don't you [C]cry.
+I [C]had a dream the other night, when everything was [G7]still,
+I [C]thought I saw Susanna dear, a-coming [G7]down the [C]hill.
+The [C]buckwheat cake was in her mouth, the tear was in her [G7]eye,
+Says [C]I, I'm coming from the south, Susanna, [G7]don't you [C]cry.
 {end_of_verse}
 
 {chorus}

@@ -1,8 +1,18 @@
 {title: Tancuj, tancuj}
 {artist: Lidová (Slovensko)}
 {key: A}
+{meta: notation en}
 
-[A]Tancuj, tancuj, [E]vykrúcaj, [A]vykrúcaj,
-[A]len mi pecku [E]nezrúcaj, [A]nezrúcaj.
-[A]Dobrá pecka [D]na zimu, [A]na zimu,
-[E]nemá každý [A]perinu, [E]peri[A]nu.
+{start_of_verse: label="1."}
+[A]Tancuj, tancuj, [E]vykrúcaj, vykrúcaj,
+len mi pecku [A]nezrúcaj, nezrúcaj.
+Dobrá pecka [E]na zimu, na zimu,
+nemá každý [A]perinu, perinu.
+{end_of_verse}
+
+{start_of_chorus}
+[A]Tra-la-la-la, [D]tra-la-la-la,
+[E]tra-la-la-la-[A]lalala-lalala,
+tra-la-la-la, [D]tra-la-la-la,
+[E]tra-la-la-la-[A]lala-la-la.
+{end_of_chorus}

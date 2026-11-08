@@ -8,7 +8,7 @@
       "artist": "John Newton (1779)",
       "key": "G",
       "file": "songs/amazing-grace.cho",
-      "updated": "d583db33c6"
+      "updated": "1a5d58d593"
     },
     {
       "id": "auld-lang-syne",
@@ -16,23 +16,23 @@
       "artist": "Robert Burns (1788)",
       "key": "G",
       "file": "songs/auld-lang-syne.cho",
-      "updated": "063e2a3b34"
+      "updated": "04caefefe9"
     },
     {
       "id": "drunken-sailor",
       "title": "Drunken Sailor",
       "artist": "Námořnická píseň",
-      "key": "Dmi",
+      "key": "Dm",
       "file": "songs/drunken-sailor.cho",
-      "updated": "108e96a707"
+      "updated": "b143f190e5"
     },
     {
       "id": "greensleeves",
       "title": "Greensleeves",
       "artist": "Tradicionál (Anglie, 16. století)",
-      "key": "Ami",
+      "key": "Am",
       "file": "songs/greensleeves.cho",
-      "updated": "a3c20b421e"
+      "updated": "0ab61ac2e3"
     },
     {
       "id": "holka-modrooka",
@@ -40,7 +40,7 @@
       "artist": "Lidová",
       "key": "G",
       "file": "songs/holka-modrooka.cho",
-      "updated": "f5cd26550f"
+      "updated": "6b73bd968b"
     },
     {
       "id": "kocka-leze-dirou",
@@ -48,7 +48,7 @@
       "artist": "Lidová",
       "key": "C",
       "file": "songs/kocka-leze-dirou.cho",
-      "updated": "59d737175b"
+      "updated": "58f83f360c"
     },
     {
       "id": "na-tom-prazskem-moste",
@@ -56,15 +56,15 @@
       "artist": "Lidová",
       "key": "G",
       "file": "songs/na-tom-prazskem-moste.cho",
-      "updated": "60f9b18f13"
+      "updated": "ee36491b1c"
     },
     {
       "id": "narodil-se-kristus-pan",
       "title": "Narodil se Kristus Pán",
       "artist": "Koleda",
-      "key": "G",
+      "key": "C",
       "file": "songs/narodil-se-kristus-pan.cho",
-      "updated": "339f2fd097"
+      "updated": "8d75519865"
     },
     {
       "id": "nesem-vam-noviny",
@@ -72,7 +72,7 @@
       "artist": "Koleda",
       "key": "G",
       "file": "songs/nesem-vam-noviny.cho",
-      "updated": "33440770be"
+      "updated": "057bd85463"
     },
     {
       "id": "oh-susanna",
@@ -80,7 +80,7 @@
       "artist": "Stephen Foster (1848)",
       "key": "C",
       "file": "songs/oh-susanna.cho",
-      "updated": "c802a6d5f8"
+      "updated": "e934b1158a"
     },
     {
       "id": "pec-nam-spadla",
@@ -88,7 +88,7 @@
       "artist": "Lidová",
       "key": "G",
       "file": "songs/pec-nam-spadla.cho",
-      "updated": "9fa2205ec8"
+      "updated": "c2a74f5d92"
     },
     {
       "id": "prsi-prsi",
@@ -96,23 +96,15 @@
       "artist": "Lidová",
       "key": "C",
       "file": "songs/prsi-prsi.cho",
-      "updated": "6b140d66e5"
-    },
-    {
-      "id": "red-river-valley",
-      "title": "Red River Valley",
-      "artist": "Tradicionál (Severní Amerika)",
-      "key": "G",
-      "file": "songs/red-river-valley.cho",
-      "updated": "b1d5679d72"
+      "updated": "32efcd63d9"
     },
     {
       "id": "scarborough-fair",
       "title": "Scarborough Fair",
       "artist": "Tradicionál (Anglie)",
-      "key": "Ami",
+      "key": "Am",
       "file": "songs/scarborough-fair.cho",
-      "updated": "8a350162c9"
+      "updated": "a505077911"
     },
     {
       "id": "skakal-pes",
@@ -120,7 +112,7 @@
       "artist": "Lidová",
       "key": "C",
       "file": "songs/skakal-pes.cho",
-      "updated": "596dfcd48e"
+      "updated": "463892648f"
     },
     {
       "id": "swing-low-sweet-chariot",
@@ -128,7 +120,7 @@
       "artist": "Spirituál",
       "key": "D",
       "file": "songs/swing-low-sweet-chariot.cho",
-      "updated": "189aac3a88"
+      "updated": "884cad3c42"
     },
     {
       "id": "tancuj-tancuj",
@@ -136,7 +128,7 @@
       "artist": "Lidová (Slovensko)",
       "key": "A",
       "file": "songs/tancuj-tancuj.cho",
-      "updated": "08a7b869c8"
+      "updated": "bfbdfddd09"
     },
     {
       "id": "when-the-saints",
@@ -144,7 +136,7 @@
       "artist": "Spirituál",
       "key": "G",
       "file": "songs/when-the-saints.cho",
-      "updated": "cf9f28c096"
+      "updated": "5887cd56d9"
     }
   ]
 }
