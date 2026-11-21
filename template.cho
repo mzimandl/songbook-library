@@ -19,8 +19,15 @@ Upro[Am]střed slo[E]va se [Am]text roztáhne,
 [F]a když je řádek moc dlouhý na displej čtečky, zalomí se mezi slovy a [E]akordy zůstanou na svém místě.
 {end_of_chorus}
 
-{c: Mezihra}
-[Am] [G] [F] [E]
+{c: Mezihra: víc mezer mezi akordy zůstane vidět}
+[Am]    [G] [F]  [E]
+
+# Mřížka akordů (rytmus bez textu): jedna buňka = jedna doba, "." = akord trvá,
+# "|" = taktová čára, "~" = dva akordy na jednu dobu. Ve čtečce se zobrazí jako tabulka.
+{start_of_grid: label="Mřížka"}
+| Am . . G  | Am C~G . G  |
+| F  . E . | Am .   E  . |
+{end_of_grid}
 
 {start_of_verse: label="2."}
 [Am/G]Basové tóny, [B7]B je české H, [Bb]Bb je B,
