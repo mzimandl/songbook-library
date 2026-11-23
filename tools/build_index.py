@@ -47,6 +47,10 @@ def read_name() -> str | None:
 def main() -> int:
     songs = []
     for path in sorted(SONGS.glob("*.cho")) + sorted(SONGS.glob("*.chopro")):
+        if path.suffix == ".chopro" and path.with_suffix(".cho").exists():
+            # the same id twice: the plugin keeps one file per id, the .cho
+            print(f"warning: {path.name} skipped, {path.stem}.cho has the same id", file=sys.stderr)
+            continue
         raw = path.read_bytes()
         meta = read_meta(raw.decode("utf-8-sig"))
         if "title" not in meta:
